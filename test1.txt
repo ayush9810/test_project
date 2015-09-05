@@ -1,4 +1,2 @@
 
-this is third commit
-this is second commit
-
+A is an alphabet
